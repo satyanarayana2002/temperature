@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #270202;
+}
+
+.container {
+    max-width: 500px;
+    margin: 50px auto;
+    background-color: #ded9e2;
+    padding: 100px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(224, 207, 207, 0.956);
+}
+
+h1 {
+    text-size-adjust: 20px;
+    text-decoration: wavy;
+    text-shadow: #96c8dc;
+    text-align: center;
+    margin-bottom: 50px;
+    color: rgb(47, 69, 87);
+}
